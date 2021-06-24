@@ -26,7 +26,7 @@ function CaseTable({ data }) {
     : null;
   const classes = useStyles();
   const confirmedData = {
-    lable: "Confiremed",
+    lable: "Confirmed",
     daily: data.data[0].deltaconfirmed,
     delta: true,
     total: data.data[0].confirmed,

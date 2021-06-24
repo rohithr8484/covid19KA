@@ -23,7 +23,7 @@ class Main extends React.Component {
     return (
       <>
         <Helmet>
-          <title>Covid19Karnataka | Home</title>
+          <title>Fibril - Covid19 - Karnataka</title>
           <meta name="description" content="Home page of covid19karnataka" />
         </Helmet>
         <div style={{ position: "sticky", top: 0, zIndex: 10 }}>

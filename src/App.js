@@ -38,13 +38,13 @@ function App() {
           type: preferedMode ? "dark" : "light",
           background: {
         default: preferedMode ? "#1C1124" : "#dee1ec",
-        paper: preferedMode ? "#321F40" : "#ffffff",
+        paper: preferedMode ? "#1C2237" : "#ffffff",
       },
           secondary: {
-        main: "#FF3D4A",
+        main: "#1C2237",
       },
         },
-        
+
         typography: {
           fontFamily: "Archia, Arial",
         },

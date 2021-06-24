@@ -38,7 +38,7 @@ export default function Footer() {
         </Link>
         {" | "}
         <a
-          href="https://github.com/Hypermona/covid19KA/issues"
+          href="https://github.com/"
           target="_blank"
           rel="noreferrer"
           style={{ textDecoration: "none", color: "#007bff" }}
@@ -60,7 +60,7 @@ export default function Footer() {
       </Typography>
       <div style={{ marginTop: "20px" }}>
         <a
-          href="https://www.instagram.com/_itshyper__/"
+          href="https://www.instagram.com/"
           target="_blank"
           style={{ textDecoration: "none", color: "red", padding: "0 10px" }}
           rel="noreferrer"
@@ -68,7 +68,7 @@ export default function Footer() {
           <InstagramIcon style={{ fontSize: "2rem" }} />
         </a>
         <a
-          href="https://github.com/Hypermona"
+          href="https://github.com/"
           target="_blank"
           style={{ textDecoration: "none", color: "black", padding: "0 10px" }}
           rel="noreferrer"

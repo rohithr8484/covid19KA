@@ -23,17 +23,17 @@ const data = [
   {
     title: "Why This Is ?",
     body:
-      "Because Corona virus affects all of us.Today it's someone else who is getting infected; tomorrow it could be us. We need to prevent the spread of this virus. We need to document the data so that people with knowledge can use this data to make informed decisions.",
+      "Because Corona virus affects all of us. Today it's someone else who is getting infected; tomorrow it could be us. We need to prevent the spread of this virus. We need to document the data so that people with knowledge can use this data to make informed decisions.",
   },
   {
     title: "About Data !",
     body:
-      "I am getting all of these data from api.covid19india.org..; they are using state bulletins and official handles to update our numbers. The data is validated by a group of volunteers and published into a Google sheet and an API.",
+      "All of the data is obtained from api.covid19india.org..; they use state bulletins and official handles to update the numbers. The data is validated by a group of volunteers and published into a Google sheet and an API.",
   },
   {
     title: "About Me",
     body:
-      "Hey, there I am Mohana Seraje. I am Currently pursuing my engineering degree in Information Science And Engineering at Sahyadri College of Engineering And Management.",
+      "Hey there, I am Rohith R. I am a Software Engineer.",
   },
 ];
 

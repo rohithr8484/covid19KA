@@ -66,7 +66,7 @@ export default function Header({ darkMode, setDarkMode }) {
 
   return (
     <div className={classes.root}>
-      <AppBar position="static" style={{ backgroundColor: "#1C1124" }}>
+      <AppBar position="static" style={{ backgroundColor: "#1C2237" }}>
         <Toolbar>
           <IconButton
             edge="start"

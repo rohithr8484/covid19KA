@@ -54,7 +54,7 @@ class Table extends React.Component {
             fontSize: "1rem",
           }}
         >
-          Casess In Karnataka District Wise
+          Karnataka Cases - District Wise
         </p>
         <TableHead
           dataSortA={dataSortA}
